@@ -36,4 +36,4 @@ if __name__ == "__main__":
         image_names = file.read().splitlines()
 
     for image in tqdm(image_names):
-        download_coco_image(image, save_dir="trial")
+        download_coco_image(image)
