@@ -146,7 +146,7 @@ If you use the VISTA dataset in your research, please cite:
 ```
 @article{
   title={VISTA: A Visual and Textual Attention Dataset for Interpreting Multimodal Models},
-  author={Harshit, Tolga Tasdizen},
+  author={Harshit,Sang Hyun Chun, Joseph Lieskovan, Tolga Tasdizen},
   journal={Proceedings of the Gaze Meets Computer Vision Workshop (GMCV), WACV 2025},
   year={2024}
 }
